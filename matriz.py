@@ -16,7 +16,7 @@ def semi_sumafila(matriz,m,n,filas,columnas):
     else:
         return matriz[m][n] + semi_sumafila(matriz,m,n+1,filas,columnas)
     
-        
+print("Hola")     
 
 
 
